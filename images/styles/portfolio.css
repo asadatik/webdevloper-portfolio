@@ -40,5 +40,15 @@ font-size: 20px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
-padding: 15px 35px;
- }
+padding: 15px 35px;}
+.header{
+   background-color: #FFF8F3; ;
+}
+.banner{
+  display: flex; 
+}
+.profile{width: 584px;
+   height: 676px;
+   flex-shrink: 0;
+
+}
