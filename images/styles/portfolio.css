@@ -154,6 +154,25 @@ line-height: 30px; /* 166.667% */
 }
  footer{
    display: flex;
+   gap: 100px;
     background-color:#FFF8F3; 
-   padding: 130px 230px;
+   padding: 130px 230px; 
+
 }
+.footer-colum{
+   width: auto;
+   margin-bottom: 25px;
+}
+.contact {
+   display: block;
+margin-bottom: 25px; 
+color: var(--Dark-03, #757575);
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 175% */
+}
+.link{
+      margin-right: 50px;
+}
+   
