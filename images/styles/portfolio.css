@@ -144,3 +144,11 @@ line-height: 30px; /* 166.667% */
    font-style: normal;
    font-weight: 700;
 }
+.resume-container{
+   display: flex;
+}
+.Download-cv{
+   text-align: center;
+   margin-top: 50px;
+   margin-bottom: 110px;
+}
